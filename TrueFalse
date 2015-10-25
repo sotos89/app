@@ -1,4 +1,5 @@
-**
+package com.example.john.geoquiz;
+/**
  * Created by john on 23/10/2015.
  */
 public class TrueFalse {
